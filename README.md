@@ -22,4 +22,4 @@ git clone (https://github.com/alicesyiemlieh500-hub/student-part-time-job-portal
 
 2.Video Demo
 
-Watch the project demo here: [Demo Video]([https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/fTHTWcO1kUU))
+Watch the project demo here: https://youtu.be/fTHTWcO1kUU
