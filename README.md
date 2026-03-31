@@ -15,6 +15,6 @@ JavaScript
 
 Installation
 
-1. Create the repository:
+1.Clone the repository:
 
 git clone (https://github.com/alicesyiemlieh500-hub/student-part-time-job-portal)
