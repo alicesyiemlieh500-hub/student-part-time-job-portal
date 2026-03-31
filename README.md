@@ -18,3 +18,8 @@ Installation
 1.Clone the repository:
 
 git clone (https://github.com/alicesyiemlieh500-hub/student-part-time-job-portal)
+
+
+2.Video Demo
+
+Watch the project demo here: [Demo Video](https://youtu.be/YOUR_VIDEO_LINK)
